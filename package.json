@@ -18,7 +18,7 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.1",
     "dotenv-webpack": "^1.7.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react-hot-loader": "^4.12.18",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.1",
